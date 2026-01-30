@@ -5,6 +5,7 @@ import {
   useRef,
   useState,
 } from "react";
+import musicFile from "../../public/music.mp3";
 import "./MusicPlayer.css";
 
 const MusicPlayer = forwardRef((props, ref) => {
@@ -81,7 +82,7 @@ const MusicPlayer = forwardRef((props, ref) => {
   return (
     <>
       <audio ref={audioRef} loop preload="auto">
-        <source src="/music.mp3" type="audio/mpeg" />
+        <source src={musicFile} type="audio/mpeg" />
         Your browser does not support the audio element.
       </audio>
       <button

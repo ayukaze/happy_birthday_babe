@@ -65,10 +65,9 @@
 .photos {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: 4px;
-  max-width: 1200px;
-  width: 100%;
-  padding: 0;
+  gap: 10px;
+  max-width: 600px;
+  width: 90%;
   margin: 0 auto;
   flex: 1;
 }
