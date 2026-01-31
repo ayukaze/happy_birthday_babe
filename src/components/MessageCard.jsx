@@ -15,8 +15,8 @@ function MessageCard({ isActive }) {
 
   const message = `Hey Pari darling, Happy birthday ♥,
 
-I wanna say this to you that I’m extremely grateful was born
-Seriously, my world would be way less fun without you in it. You make me laugh, you make me smile for no reason, and you somehow make even the dumbest moments feel special.
+I wanna say this to you that I’m extremely grateful that you were born.
+like seriously, my world would be way less fun without you in it. You make me laugh, you make me smile for no reason, and you somehow make even the dumbest moments feel special.
 
 I really love being your boyfriend—it makes me ridiculously happy. Being with you feels easy, warm, and just right. I appreciate you more than I probably say, and I’m so thankful I get to do life with you.
 
